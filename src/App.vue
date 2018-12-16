@@ -45,9 +45,7 @@ export default {
                         "first_name": "Antunes",
                         "last_name": "Gerald",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em pausa',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -58,9 +56,7 @@ export default {
                         "first_name": "Roberto",
                         "last_name": "Leal",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em pausa',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -71,9 +67,7 @@ export default {
                         "first_name": "Kabir",
                         "last_name": "Amber",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em pausa',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -84,9 +78,7 @@ export default {
                         "first_name": "Arthur",
                         "last_name": "Montanhez",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em pausa',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -97,9 +89,7 @@ export default {
                         "first_name": "Gustavo",
                         "last_name": "Teste",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em pausa',
                         "cpf": "XXXXXXXXXX"
                     }
@@ -112,9 +102,7 @@ export default {
                         "first_name": "Antunes",
                         "last_name": "Gerald",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em Progresso',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -125,9 +113,7 @@ export default {
                         "first_name": "Roberto",
                         "last_name": "Leal",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em Progresso',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -138,9 +124,7 @@ export default {
                         "first_name": "Kabir",
                         "last_name": "Amber",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em Progresso',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -151,9 +135,7 @@ export default {
                         "first_name": "Arthur",
                         "last_name": "Montanhez",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em Progresso',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -164,9 +146,7 @@ export default {
                         "first_name": "Gustavo",
                         "last_name": "Teste",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Em Progresso',
                         "cpf": "XXXXXXXXXX"
                     }
@@ -179,9 +159,7 @@ export default {
                         "first_name": "Antunes",
                         "last_name": "Gerald",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Completo',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -192,9 +170,7 @@ export default {
                         "first_name": "Roberto",
                         "last_name": "Leal",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Completo',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -205,9 +181,7 @@ export default {
                         "first_name": "Kabir",
                         "last_name": "Amber",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Completo',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -218,9 +192,7 @@ export default {
                         "first_name": "Arthur",
                         "last_name": "Montanhez",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Completo',
                         "cpf": "XXXXXXXXXX"
                     },
@@ -231,9 +203,7 @@ export default {
                         "first_name": "Gustavo",
                         "last_name": "Teste",
                         "email": "email@teste.com",
-                        "unidade": [
-                            "Address"
-                        ],
+                        "unidade": [ "Address" ],
                         "status": 'Completo',
                         "cpf": "XXXXXXXXXX"
                     }
